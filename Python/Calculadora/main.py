@@ -1,4 +1,4 @@
-from funcionesMiniCalculadora import suma, resta, mult, div, mod, poW, sum3
+from labs.Python.Calculadora.funcionesMiniCalculadora import suma, resta, mult, div, mod, poW, sum3
 
 x1 = float(input("Digite un numero: "))
 x2 = float(input("Digite un numero: "))

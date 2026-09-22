@@ -1,4 +1,4 @@
-from main import trivia_fetch
+from labs.Python.NumbersQuiz.main import trivia_fetch
 import time
 
 # Test 1
