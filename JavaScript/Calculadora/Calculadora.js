@@ -8,7 +8,7 @@ function operaciones(){
     // crear variables para las operaciones:
     let suma, resta, multiplicacion, division;
 
-    // Realizamos las operaciones
+    // Realizamos las operaciones   
     suma = a + b;
     resta = a - b;
     multiplicacion = a * b;
