@@ -4,8 +4,8 @@ function Journey(start, end) {
     this.end=end;
 }
 
-const from = `Queens`;
-const to = `Brooklyn`;
+const from = process.argv[3];
+const to = process.argv[4];
 // Type your code above this line!
 
 const travel = new Journey(from, to);

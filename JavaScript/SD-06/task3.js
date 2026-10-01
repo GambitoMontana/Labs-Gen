@@ -9,7 +9,7 @@ function Mail(subj, msg) {
     }
   }
   
-  const newMail = new Mail(process.argv[3] = `pizza`,process.argv[4] = `pineapple`);
+  const newMail = new Mail(process.argv[3],process.argv[4]);
   
   // Type your code above this line!
   newMail.printMail();

@@ -16,5 +16,6 @@ class FriendList {
 const nombres = new FriendList
 //const lista1 = new FriendList();
 //lista1.leerNombres();
+
 // Type your code above this line!
 
